@@ -1,2 +1,1 @@
-# GIT
-for understanding git
+Hi I am Rahul
